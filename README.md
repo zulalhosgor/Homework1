@@ -1,2 +1,4 @@
-# PatikaHomework1
-My first homework for Patika.
+_deneme1_
+*patika ödev1*
+  My first Homework for Patika.
+
